@@ -41,7 +41,7 @@ Currently I am not accepting contributions
 
 ## Authors
 
-* **BernillaryClanders** - *Initial work*
+* **BernillaryClanders** - *Initial work* - [u/BernillaryClanders](https://thedonald.win/u/BernillaryClanders/)
 
 ## License
 
